@@ -1,11 +1,7 @@
 
 
-- 👋 Hi, I’m @CherishX1122
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-   1. Create a [Cherishx](https://cherishx.com/) with the minimal amount of code to reproduce the bug.
+
+   1.  [Cherishx](https://cherishx.com/) .
 <!---
 CherishX1122/CherishX1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
